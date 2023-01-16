@@ -1,4 +1,4 @@
-## Oiii eu sou a Marcus Petit, Desenvolvedor Web!
+## Oiii eu sou Marcus Petit, Desenvolvedor Web!
 <div align="center">
   <a href="https://github.com/MarcusPetit">
   <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=MarcusPetit&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
