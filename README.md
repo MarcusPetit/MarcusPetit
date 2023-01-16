@@ -10,7 +10,7 @@
   <img align="center" alt="MarcusPetit-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="MarcusPetit-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="MarcusPetit-Angular" height="30" width="40" src="https://img.icons8.com/color/240/null/angularjs.png">
-   <img align="center" alt="MarcusPetit-NestJS" height="30" width="40" src="https://img.icons8.com/color/240/null/angularjs.png](http://www.w3.org/2000/svg">
+   <img align="center" alt="MarcusPetit-NestJS" height="30" width="40" src="http://www.w3.org/2000/svg">
   <img align="center" alt="MarcusPetit-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="MarcusPetit-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="MarcusPetit-pic" height="150" style="border-radius:50px;" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&amp;h=525&amp;auto=format">
