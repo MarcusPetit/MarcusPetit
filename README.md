@@ -1,4 +1,4 @@
-Marcus Petit, Desenvolvedor Web!
+Marcus Petit,
 Sou um desenvolvedor PHP fullstack, com experiência em Laravel e VueJs! Eu amo encarar novos desafios!
 
 Participei na criação de diversos projetos
