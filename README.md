@@ -1,4 +1,7 @@
 Marcus Petit, Desenvolvedor Web!
+Sou um desenvolvedor PHP fullstack, com experiência em Laravel e VueJs! Eu amo encarar novos desafios!
+
+Participei na criação de diversos projetos
 
  <div style="display: inline_block"><br>
   <img align="center" alt="MarcusPetit-HTML" height="30" width="40" padding="10px" src="https://img.icons8.com/?size=100&id=UGYn5TapNioV&format=png&color=000000">
