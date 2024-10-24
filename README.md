@@ -3,6 +3,7 @@ Marcus Petit, Desenvolvedor Web!
  <div style="display: inline_block"><br>
   <img align="center" alt="MarcusPetit-HTML" height="30" width="40" src="https://img.icons8.com/?size=100&id=UGYn5TapNioV&format=png&color=000000">
   <img align="center" alt="MarcusPetit-CSS" height="30" width="40" src="https://img.icons8.com/?size=100&id=qfQaIYKX23qY&format=png&color=000000">
+    <img align="center" alt="MarcusPetit-CSS" height="30" width="40" src="https://img.icons8.com/?size=100&id=5OD485koNIrb&format=png&color=000000">
   <img align="center" alt="MarcusPetit-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="MarcusPetit-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="MarcusPetit-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -14,7 +15,7 @@ Marcus Petit, Desenvolvedor Web!
  
   
 </div>
-  
+
    ##
  
 <div> 
