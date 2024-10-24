@@ -1,6 +1,8 @@
 Marcus Petit, Desenvolvedor Web!
 
  <div style="display: inline_block"><br>
+  <img align="center" alt="MarcusPetit-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="MarcusPetit-Laravel" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg](https://img.icons8.com/?size=100&id=qfQaIYKX23qY&format=png&color=000000)">
   <img align="center" alt="MarcusPetit-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="MarcusPetit-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="MarcusPetit-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -8,9 +10,8 @@ Marcus Petit, Desenvolvedor Web!
    <img align="center" alt="MarcusPetit-NestJS" height="30" width="40" src="https://img.icons8.com/color/480/null/nestjs.png">
   <img align="center" alt="MarcusPetit-NodeJS" height="30" width="40" src="https://img.icons8.com/color/480/null/nodejs.png">
    <img align="center" alt="MarcusPetit-Graphql" height="30" width="40" src="https://img.icons8.com/color/480/null/graphql.png">
-  <img align="center" alt="MarcusPetit-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="MarcusPetit-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="MarcusPetit-pic" height="150" style="border-radius:50px;" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&amp;h=525&amp;auto=format">
+  <img align="center" alt="MarcusPetit-TSS" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg](https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000)">
+ 
  
   
 </div>
