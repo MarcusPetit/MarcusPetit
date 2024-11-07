@@ -1,23 +1,4 @@
-Bem vindo ao meu repositório!
-<div align="center">
-  <a href="https://github.com/Manelrx">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcusPetit&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusPetit&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
-<div style="display: inline_block" ><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" >
-  <div style="display: inline_block"><br> 
-<div> 
-  
 
-![Snake animation](https://github.com/MarcusPetit/MarcusPetit/blob/output/github-contribution-grid-snake.svg)
-
- 
-</div>
 
 
 Sou um desenvolvedor PHP fullstack e Java backend com experiência em Laravel, VueJs e Spring! Eu amo encarar novos desafios!
