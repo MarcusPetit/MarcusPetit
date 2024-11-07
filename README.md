@@ -1,8 +1,8 @@
 Bem vindo ao meu repositório!
 <div align="center">
   <a href="https://github.com/Manelrx">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manelrx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manelrx&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcusPetit&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusPetit&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block" ><br>
@@ -13,12 +13,8 @@ Bem vindo ao meu repositório!
   <div style="display: inline_block"><br> 
 <div> 
   
-  <a href="https://instagram.com/Manelrx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/Manelrx" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:emanuelmaraujo18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/emanuel-ara%C3%BAjo-759483218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/Manelrx/Manelrx/blob/output/github-contribution-grid-snake.svg)
+
+  ![Snake animation](https://github.com/MarcusPetit/MarcusPetit/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
